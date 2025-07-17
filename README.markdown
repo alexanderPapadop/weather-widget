@@ -23,7 +23,7 @@ To run the Weather Widget Application locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/alexanderPapadop/weather-widget.git
    cd weather-widget
    ```
 
